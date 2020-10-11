@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-Implement Stet by step process 
+Implement Step by step process 
 - [Flutter Authentication | Flutter Fingerprint Scanner](https://protocoderspoint.com/flutter-authentication-fingerprint-scanner-local-auth-package/)
 
 ## Getting Started
